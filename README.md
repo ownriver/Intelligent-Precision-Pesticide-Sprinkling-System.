@@ -19,7 +19,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)  
+- **SIH Presentation:** [Final SIH Presentation](https://www.canva.com/design/DAGywzE8Sz8/_o8TOKq4O2XZwdzarCCVAw/edit?utm_content=DAGywzE8Sz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)  
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)  
 - **Source Code:** [GitHub Repository](https://github.com/ownriver/SIH_2025_Internal_Round_Submission_PS25015)  
