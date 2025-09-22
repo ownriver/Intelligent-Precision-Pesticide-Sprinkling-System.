@@ -21,6 +21,6 @@ This README provides an overview of the project, including team details, relevan
 
 - **SIH Presentation:** [Final SIH Presentation](https://www.canva.com/design/DAGywzE8Sz8/_o8TOKq4O2XZwdzarCCVAw/edit?utm_content=DAGywzE8Sz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)  
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)  
+- **Live Deployment:** [View Deployment](https://hogaya-fork.vercel.app/)  
 - **Source Code:** [GitHub Repository](https://github.com/ownriver/SIH_2025_Internal_Round_Submission_PS25015)  
 - **Additional Resources:** [Dual-Drone System Models & Reference Research Papers](https://drive.google.com/drive/folders/1YHBi8Aip7soEJXCMwnPSAQf9o9I9Tdsd)  
