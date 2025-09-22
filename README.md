@@ -23,4 +23,4 @@ This README provides an overview of the project, including team details, relevan
 - **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)  
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)  
 - **Source Code:** [GitHub Repository](https://github.com/ownriver/SIH_2025_Internal_Round_Submission_PS25015)  
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)  
+- **Additional Resources:** [Dual-Drone System Models & Reference Research Papers](https://drive.google.com/drive/folders/1YHBi8Aip7soEJXCMwnPSAQf9o9I9Tdsd)  
