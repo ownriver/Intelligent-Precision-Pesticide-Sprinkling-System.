@@ -15,7 +15,7 @@
 - **Yashika** – 2023UCS1530 – [@yashikavishwakarma](https://github.com/yashikavishwakarma)  
 - **Ajisth Shukla** – 2023UCD12156 – [@shuklaafk](https://github.com/shuklaafk)  
 
-## Project Links
+## Project Link(s):
 
 - **SIH Presentation:** [Final SIH Presentation](https://www.canva.com/design/DAGywzE8Sz8/_o8TOKq4O2XZwdzarCCVAw/edit?utm_content=DAGywzE8Sz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 - **Video Demonstration:** [Watch Video](https://youtu.be/n5xNAdsPdv8)  
